@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @GabrieleSanmartino
+- 👀 I’m interested in Data Science and Data Engineering
